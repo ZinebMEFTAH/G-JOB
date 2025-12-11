@@ -17,13 +17,13 @@
 ## 1. Who is This Website For?
 
 ### 👤 **Targeted Individuals**
-  **Age Range:** 18+  
-  **Gender:** Inclusive for all genders  
-  **Country:** Algeria  
-  **Urban/Rural Residents:** Open to all locations  
-  **Income Level:** Affordable for all job seekers with a small registration fee  
-  **Education Level:** Depends on the job type and employer’s requirements  
-  **Occupation:**  
+  • **Age Range:** 18+  
+  • **Gender:** Inclusive for all genders  
+  • **Country:** Algeria  
+  • **Urban/Rural Residents:** Open to all locations  
+  • **Income Level:** Affordable for all job seekers with a small registration fee  
+  • **Education Level:** Depends on the job type and employer’s requirements  
+  • **Occupation:**  
 - **Job Seekers:** Unemployed individuals & those looking for side jobs  
 - **Job Providers:** Business owners, recruiters, or anyone needing services (e.g., babysitting, housekeeping)  
   **Device Access:** Mobile phones, tablets, laptops, and desktop computers  
@@ -77,13 +77,13 @@
 
 ## 4. What Information Do Visitors Need?
 
- **Do visitors need an introduction to the platform?**  
+ • **Do visitors need an introduction to the platform?**  
 Yes, while people understand job hunting, they will need guidance on how **G-Jobs** works.  
 
- **Are visitors familiar with the concept?**  
+ • **Are visitors familiar with the concept?**  
 Yes, job searching & hiring are widely known processes.  
 
- **Key Differentiator:**  
+ • **Key Differentiator:**  
  **First-of-its-kind in Algeria!** Unlike other platforms, **G-Jobs is inclusive of all adult Algerians and all job types** (from corporate jobs to freelance services).  
 
 ---
