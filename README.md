@@ -16,7 +16,7 @@
 
 ## 1. Who is This Website For?
 
-### 👤 **Targeted Individuals**
+### **Targeted Individuals**
   • **Age Range:** 18+  
   • **Gender:** Inclusive for all genders  
   • **Country:** Algeria  
@@ -37,7 +37,7 @@
 
 ## 2. Why Do People Visit This Website?
 
-### 💡 **Key Motivations**
+### **Key Motivations**
 - Job seekers want **employment, career growth, financial stability, and professional advancement**.  
 - Employers want to **discover talent, fill open positions, and expand their businesses**.  
 
@@ -97,7 +97,7 @@ Yes, job searching & hiring are widely known processes.
 
 ##  6. Sitemap
 
-📍 Below is the **website structure** for navigation:
+Below is the **website structure** for navigation:
 
 ![Site maps](sitemap.png "G-Jobs Sitemap")
 
